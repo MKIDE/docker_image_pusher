@@ -1,5 +1,17 @@
 monikadesignuniverse/pt-trackerproxy:latest
+nyanmisaka/jellyfin:latest
+gotson/komga:latest
+gdy666/lucky:latest
+likun7981/hlink:latest
+xhofe/alist:latest
 
+linuxserver/qbittorrent:latest
+linuxserver/qbittorrent:4.6.5
+linuxserver/qbittorrent:4.5.4
+linuxserver/qbittorrent:4.3.9
+
+linuxserver/transmission:latest
+linuxserver/transmission:4.0.5
 
 #nginx
 #支持私库
