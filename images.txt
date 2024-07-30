@@ -1,3 +1,4 @@
+ghcr.io/autobrr/autobrr:latest
 ghcr.io/xrayr-project/xrayr:latest
 monikadesignuniverse/pt-trackerproxy:latest
 nyanmisaka/jellyfin:latest
