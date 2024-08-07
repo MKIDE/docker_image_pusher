@@ -1,4 +1,5 @@
 --platform=linux/amd64/v2 ghcr.io/autobrr/autobrr:v1.44.0
+linuxserver/firefox:128.0.3
 ghcr.io/xrayr-project/xrayr:latest
 monikadesignuniverse/pt-trackerproxy:latest
 nyanmisaka/jellyfin:latest
