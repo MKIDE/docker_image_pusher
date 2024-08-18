@@ -4,7 +4,7 @@ linuxserver/qbittorrent:4.6.5-libtorrentv1
 linuxserver/transmission:4.0.5
 linuxserver/firefox:128.0.3
 
-docker pull monikadesignuniverse/pt-trackerproxy:1.6p2
+monikadesignuniverse/pt-trackerproxy:1.6p2
 
 nyanmisaka/jellyfin:latest
 gotson/komga:latest
