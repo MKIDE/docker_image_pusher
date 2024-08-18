@@ -1,19 +1,17 @@
 --platform=linux/amd64/v2 ghcr.io/autobrr/autobrr:v1.44.0
 
+monikadesignuniverse/pt-trackerproxy:1.6p2
+
 linuxserver/qbittorrent:4.6.5-libtorrentv1
 linuxserver/transmission:4.0.5
 linuxserver/firefox:128.0.3
-
-monikadesignuniverse/pt-trackerproxy:1.6p2
+linuxserver/thelounge:latest
 
 nyanmisaka/jellyfin:latest
+likun7981/hlink:latest
 gotson/komga:latest
 gdy666/lucky:latest
-likun7981/hlink:latest
 xhofe/alist:latest
-
-
-
 
 #nginx
 #支持私库
