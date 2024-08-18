@@ -1,20 +1,19 @@
 --platform=linux/amd64/v2 ghcr.io/autobrr/autobrr:v1.44.0
+
 linuxserver/qbittorrent:4.6.5-libtorrentv1
+linuxserver/transmission:4.0.5
 linuxserver/firefox:128.0.3
-ghcr.io/xrayr-project/xrayr:latest
-monikadesignuniverse/pt-trackerproxy:latest
+
+docker pull monikadesignuniverse/pt-trackerproxy:1.6p2
+
 nyanmisaka/jellyfin:latest
 gotson/komga:latest
 gdy666/lucky:latest
 likun7981/hlink:latest
 xhofe/alist:latest
 
-linuxserver/qbittorrent:latest
-linuxserver/qbittorrent:4.6.5
-linuxserver/qbittorrent:4.5.4
 
-linuxserver/transmission:latest
-linuxserver/transmission:4.0.5
+
 
 #nginx
 #支持私库
