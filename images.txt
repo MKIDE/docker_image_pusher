@@ -4,6 +4,7 @@ monikadesignuniverse/pt-trackerproxy:1.6p2
 
 linuxserver/qbittorrent:4.6.5-libtorrentv1
 linuxserver/transmission:4.0.5
+linuxserver/transmission:3.00-r8-ls151
 linuxserver/firefox:128.0.3
 linuxserver/thelounge:latest
 
