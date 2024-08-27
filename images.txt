@@ -8,6 +8,7 @@ linuxserver/transmission:3.00-r8-ls151
 linuxserver/firefox:128.0.3
 linuxserver/thelounge:latest
 
+iyuucn/iyuuplus-dev:latest
 nyanmisaka/jellyfin:latest
 likun7981/hlink:latest
 gotson/komga:latest
