@@ -1,5 +1,7 @@
 --platform=linux/amd64/v2 ghcr.io/autobrr/autobrr:v1.44.0
 
+lswl/vertex:stable
+lswl/vertex-base:latest
 monikadesignuniverse/pt-trackerproxy:1.6p2
 
 linuxserver/qbittorrent:4.6.5-libtorrentv1
