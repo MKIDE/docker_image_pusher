@@ -1,4 +1,6 @@
 --platform=linux/amd64/v2 ghcr.io/autobrr/autobrr:v1.44.0
+docker.io/wettyoss/wetty:latest
+
 1995chen/dnf:centos5-2.1.4.fix1
 
 1995chen/dnf:centos7-latest
