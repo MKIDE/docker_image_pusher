@@ -1,25 +1,26 @@
---platform=linux/amd64/v2 ghcr.io/autobrr/autobrr:v1.44.0
+xhofe/alist-aria2:v3.37.4
+xhofe/alist:v3.37.4-ffmpeg
 
-kasmweb/firefox:1.13.0-rolling
-kasmweb/chrome:1.13.0-rolling
+#--platform=linux/amd64/v2 ghcr.io/autobrr/autobrr:v1.44.0
+#kasmweb/firefox:1.13.0-rolling
+#kasmweb/chrome:1.13.0-rolling
+#lswl/vertex:stable
+#lswl/vertex-base:latest
+#monikadesignuniverse/pt-trackerproxy:1.6p2
 
-lswl/vertex:stable
-lswl/vertex-base:latest
-monikadesignuniverse/pt-trackerproxy:1.6p2
+#linuxserver/qbittorrent:4.6.5-libtorrentv1
+#linuxserver/transmission:4.0.5
+#linuxserver/transmission:3.00-r8-ls151
+#linuxserver/firefox:128.0.3
+#linuxserver/thelounge:latest
 
-linuxserver/qbittorrent:4.6.5-libtorrentv1
-linuxserver/transmission:4.0.5
-linuxserver/transmission:3.00-r8-ls151
-linuxserver/firefox:128.0.3
-linuxserver/thelounge:latest
-
-cym1102/nginxwebui:latest
-iyuucn/iyuuplus-dev:latest
-nyanmisaka/jellyfin:latest
-likun7981/hlink:latest
-gotson/komga:latest
-gdy666/lucky:latest
-xhofe/alist:latest
+#cym1102/nginxwebui:latest
+#iyuucn/iyuuplus-dev:latest
+#nyanmisaka/jellyfin:latest
+#likun7981/hlink:latest
+#gotson/komga:latest
+#gdy666/lucky:latest
+#xhofe/alist:latest
 
 #nginx
 #支持私库
