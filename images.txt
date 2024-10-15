@@ -1,5 +1,7 @@
-xhofe/alist-aria2:v3.37.4
-xhofe/alist:v3.37.4-ffmpeg
+nyanmisaka/jellyfin:240401-amd64
+
+#xhofe/alist-aria2:v3.37.4
+#xhofe/alist:v3.37.4-ffmpeg
 
 #--platform=linux/amd64/v2 ghcr.io/autobrr/autobrr:v1.44.0
 #kasmweb/firefox:1.13.0-rolling
