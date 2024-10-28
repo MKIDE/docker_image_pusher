@@ -1,4 +1,6 @@
-nyanmisaka/jellyfin:241027-amd64
+kasmweb/qbittorrent:1.14.0-rolling
+linuxserver/qbittorrent:5.0.0
+#nyanmisaka/jellyfin:241027-amd64
 #ccf2012/seedcross
 #lscr.io/linuxserver/jackett
 
