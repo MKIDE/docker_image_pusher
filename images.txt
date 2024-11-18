@@ -1,5 +1,7 @@
-linuxserver/qbittorrent:5.0.0-libtorrentv1
-linuxserver/qbittorrent:5.0.1-libtorrentv1
+ghcr.io/analogj/scrutiny:master-omnibus
+
+#linuxserver/qbittorrent:5.0.0-libtorrentv1
+#linuxserver/qbittorrent:5.0.1-libtorrentv1
 
 #kasmweb/qbittorrent:1.14.0-rolling
 #nyanmisaka/jellyfin:241027-amd64
