@@ -1,4 +1,6 @@
-ghcr.io/analogj/scrutiny:master-omnibus
+docker.io/wettyoss/wetty:latest
+
+#ghcr.io/analogj/scrutiny:master-omnibus
 
 #linuxserver/qbittorrent:5.0.0-libtorrentv1
 #linuxserver/qbittorrent:5.0.1-libtorrentv1
