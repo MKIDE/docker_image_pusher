@@ -1,5 +1,6 @@
-docker.io/wettyoss/wetty:latest
 
+ghcr.io/autobrr/autobrr:latest
+#docker.io/wettyoss/wetty:latest
 #ghcr.io/analogj/scrutiny:master-omnibus
 
 #linuxserver/qbittorrent:5.0.0-libtorrentv1
