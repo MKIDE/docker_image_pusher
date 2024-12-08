@@ -1,5 +1,5 @@
-
-ghcr.io/autobrr/autobrr:latest
+--platform=linux/amd64/v2 ghcr.io/autobrr/autobrr:latest
+#ghcr.io/autobrr/autobrr:latest
 #docker.io/wettyoss/wetty:latest
 #ghcr.io/analogj/scrutiny:master-omnibus
 
