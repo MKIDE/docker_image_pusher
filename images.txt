@@ -1,4 +1,4 @@
-laoyutang/clash-and-dashboard
+laoyutang/clash-and-dashboard:latest
 
 #--platform=linux/amd64/v2 ghcr.io/autobrr/autobrr:latest
 #ghcr.io/autobrr/autobrr:latest
