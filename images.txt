@@ -1,5 +1,5 @@
 metacubex/metacubexd:latest
-metacubex/mihomo:Alpha
+#metacubex/mihomo:Alpha
 
 
 #laoyutang/clash-and-dashboard:latest
