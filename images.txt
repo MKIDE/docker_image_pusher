@@ -1,5 +1,5 @@
-ghcr.io/metacubex/metacubexd
-docker.io/metacubex/mihomo:Alpha
+metacubex/metacubexd:latest
+metacubex/mihomo:Alpha
 
 
 #laoyutang/clash-and-dashboard:latest
