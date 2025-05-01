@@ -1,4 +1,8 @@
-laoyutang/clash-and-dashboard:latest
+ghcr.io/metacubex/metacubexd
+docker.io/metacubex/mihomo:Alpha
+
+
+#laoyutang/clash-and-dashboard:latest
 
 #--platform=linux/amd64/v2 ghcr.io/autobrr/autobrr:latest
 #ghcr.io/autobrr/autobrr:latest
