@@ -1,4 +1,4 @@
-metacubex/metacubexd:latest
+#metacubex/metacubexd:latest
 #metacubex/mihomo:Alpha
 
 
