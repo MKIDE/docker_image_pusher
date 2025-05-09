@@ -1,4 +1,4 @@
-mzz2017/v2raya:latest
+#mzz2017/v2raya:latest
 
 #metacubex/metacubexd:latest
 #metacubex/mihomo:Alpha
