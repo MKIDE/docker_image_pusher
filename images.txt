@@ -1,1 +1,2 @@
 corentinth/it-tools:nightly
+soulteary/nginx-qrcode-server:latest
