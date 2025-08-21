@@ -1,2 +1,8 @@
 gdy666/lucky:latest
 openlistteam/openlist:beta-ffmpeg
+jxxghp/moviepilot-v2:latest
+mzz2017/v2raya:latest
+rustdesk/rustdesk-server:latest
+nyanmisaka/jellyfin:latest
+matrixdotorg/synapse:latest
+vectorim/element-web
