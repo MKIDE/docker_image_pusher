@@ -6,4 +6,4 @@ rustdesk/rustdesk-server:latest
 nyanmisaka/jellyfin:latest
 matrixdotorg/synapse:latest
 vectorim/element-web
-
+easychen/cookiecloud:latest
