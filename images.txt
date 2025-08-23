@@ -1,9 +1,17 @@
+# omv
 gdy666/lucky:latest
 openlistteam/openlist:beta-ffmpeg
-jxxghp/moviepilot-v2:latest
-mzz2017/v2raya:latest
-rustdesk/rustdesk-server:latest
-nyanmisaka/jellyfin:latest
+linuxserver/transmission:4.0.5
+linuxserver/qbittorrent:5.1.2
+ghostchu/peerbanhelper:latest
+linuxserver/thelounge:latest
 matrixdotorg/synapse:latest
 vectorim/element-web
-easychen/cookiecloud:latest
+mzz2017/v2raya:latest
+nyanmisaka/jellyfin:latest
+jxxghp/moviepilot-v2:latest
+redis:latest
+postgres:latest
+likun7981/hlink:latest
+rustdesk/rustdesk-server:latest
+#
